@@ -1,0 +1,5 @@
+.env
+*/node-modules/*
+token.txt
+.idea
+node-js-projects
